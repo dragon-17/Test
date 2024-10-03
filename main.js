@@ -1,4 +1,4 @@
-import { $ } from "./Util/helper";
+import { $ } from "./Util/helper.js";
 
 let date_str=new Date().toLocaleTimeString()
 console.log("𖠀🐉🐉🐉",date_str)

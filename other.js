@@ -1,4 +1,4 @@
-import { $ } from "./Util/helper";
+import { $ } from "./Util/helper.js";
 
 
 console.log("🐍🐉Hello¡¡¡");
