@@ -1,5 +1,4 @@
-/** @param {String} sel   @returns {HTMLElement}*/
-function $(sel){return document.querySelector(sel);}
+import { $ } from "./Util/helper";
 
 let date_str=new Date().toLocaleTimeString()
 console.log("𖠀🐉🐉🐉",date_str)
